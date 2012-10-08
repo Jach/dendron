@@ -38,8 +38,9 @@ the version of HBase that the clojure-hbase depended upon during initial develop
 has to be installed manually using maven.) The most recent development on it left it
 in an in-progress state, which as one would expect is pretty messy.
 
-If you are interested in further development on this project, you are welcome to contact
-Jach and discuss payment. (Bitcoins welcome!)
+If you are interested in sponsoring further development on this project, you are welcome to contact
+Jach and discuss payment. (Bitcoins welcome!) If you for some reason want to contribute yourself,
+make a pull request with your patch.
 
 Jach wants to do the following to this project, in order:
 
@@ -62,7 +63,7 @@ There is no time-table for these tasks and they may in fact never be completed.
 
 The data structure that this project is derived from is known in the literature as
 a Space-Efficient Dynamic Data Cube (SDDC). If you're interested in a collection of PDFs
-on it as well as related structures, feel free to send me an email. Google is helpful
+on it as well as related structures, feel free to send Jach an email. Google is helpful
 in finding most of them. As stated above, Jach intends to write introductory material to
 understand what's going on, but if that hasn't happened yet and you want to learn, the PDFs
 are your friends.
