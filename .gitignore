@@ -1,0 +1,13 @@
+samples/*.csv
+samples/*.zip
+samples/readme.html
+*.swp
+classes
+lib
+pom.xml
+*jar
+native
+.lein-failures
+checkouts
+.lein-deps-sum
+credentials.clj
